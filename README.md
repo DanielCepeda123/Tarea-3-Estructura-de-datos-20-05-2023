@@ -8,4 +8,4 @@ Curso: ICI2240-1
 
 2) Las funciones 1, 2 y 4 funcionan correctamente. La función 3 solo funciona parcialmente. Logra insertar todas las tareas sin precedentes a un monticulo de minimos e insertar la raiz de este monticulo a una lista que contendrá las tareas en orden, marcando la tarea como completada. El error sucede cuando intenta agregar los otros elementos cuyas tareas precedentes ya fueron completadas, problamente por la forma en que se accede al siguiente elemento del grafo o por las estructuras if/while.
 
-3 y 4) Trabajé de forma individual.
+ 3 y 4) Trabajé de forma individual.
